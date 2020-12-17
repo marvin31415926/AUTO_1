@@ -1,0 +1,2 @@
+Not enough arguments. Minimus is 3
+usage: node get_all_bit_prices_mm.js <period in sec (0: without timer)> <u_token-DATE>

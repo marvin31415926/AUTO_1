@@ -1,0 +1,6 @@
+node get_all_okex_prices_mm.js 0 BTC-18DEC20
+
+node .\get_all_bit_prices_mm.js 0 BTC-18DEC20
+
+1 параметр - таймер в секундах (0: если без таймера)
+2 параметр - опцион
