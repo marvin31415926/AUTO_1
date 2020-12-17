@@ -31,4 +31,5 @@ if __name__ == '__main__':
     for date in okex_dates:
         result = execute_js(okex_script + ' ' + asset + '-' + date + '>' + './DATA/' + date + '_o' + '.csv')
         print('OKEx', date, result)
+
         # 000
